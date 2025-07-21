@@ -1,0 +1,12 @@
+# Ignore system and IDE files
+.DS_Store
+*.log
+
+# Ignore env files in any subdirectory
+**/.env
+
+# Optional: ignore OS or editor folders
+.vscode/
+.idea/
+
+/node_modules
